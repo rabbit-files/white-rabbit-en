@@ -27,6 +27,13 @@ characters:
     julia:
         full-name: Julia North
 
+motives:
+    - blame
+    - calm
+    - defense
+    - fear
+    - questions
+
 # List of suspects. Descriptions optional, colons are not.
 suspects:
     bria: Bria Brown
