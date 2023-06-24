@@ -64,47 +64,47 @@ searching:
 clues:
     90:
         charlie:
-            1: Charlie returns to town
+            base-90-1: Charlie returns to town
     80:
-        1: Alice finds out something about this suspect
-        2: This person posted something about Alice on social media
-        3: You saw something, but the police ignored your report
+        base-80-1: Alice finds out something about this suspect
+        base-80-2: This person posted something about Alice on social media
+        base-80-3: You saw something, but the police ignored your report
     70:
-        1: You reread a message from Alice
-        2: You were at this location with Alice just before she disappeared
-        3: Accidental voicemail from Alice
+        base-70-1: You reread a message from Alice
+        base-70-2: You were at this location with Alice just before she disappeared
+        base-70-3: Accidental voicemail from Alice
     60:
-        1: This person messages you something strange about Alice
-        2: This person shows up at your door
-        3: Alice told you a secret
+        base-60-1: This person messages you something strange about Alice
+        base-60-2: This person shows up at your door
+        base-60-3: Alice told you a secret
     50:
-        1: You break into Alice's locker
-        2: You find some weird history about this location
-        3: You've heard rumors about this location
+        base-50-1: You break into Alice's locker
+        base-50-2: You find some weird history about this location
+        base-50-3: You've heard rumors about this location
     45:
-        1: This person is now missing
-        2: A winter storm hits
-        3: This place goes up in flames
+        base-45-1: This person is now missing
+        base-45-2: A winter storm hits
+        base-45-3: This place goes up in flames
     40:
-        1: This person has started a rumor about Alice on social media
-        2: This person suddenly cares a lot about Alice
-        3: Alice was talking to this person online
+        base-40-1: This person has started a rumor about Alice on social media
+        base-40-2: This person suddenly cares a lot about Alice
+        base-40-3: Alice was talking to this person online
     35:
-        1: Someone saw Alice in this location, looking different
-        2: You find Alice's car here
-        3: You find something Alice used to carry everywhere
+        base-35-1: Someone saw Alice in this location, looking different
+        base-35-2: You find Alice's car here
+        base-35-3: You find something Alice used to carry everywhere
     # Culprit
     30:
-        1: This person tries to break down your door/get you while you're alone
-        2: The police know this person is involved
-        3: This person just posted something on social media
+        base-30-1: This person tries to break down your door/get you while you're alone
+        base-30-2: The police know this person is involved
+        base-30-3: This person just posted something on social media
     # Alice's location
     20:
-        1: You track Alice's phone location
-        2: Alice sends you a text message
-        3: Alice calls you
+        base-20-1: You track Alice's phone location
+        base-20-2: Alice sends you a text message
+        base-20-3: Alice calls you
     # Endings
     10:
-        1: Hurt
-        2: Body
-        3: Unconscious
+        base-10-1: Hurt
+        base-10-2: Body
+        base-10-3: Unconscious
